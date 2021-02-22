@@ -30,7 +30,7 @@ body{
 .community{
     grid-area: community;
     background-color: #fff;
-    padding: 30px;
+    padding: 40px 30px;
 
 }
 
@@ -52,7 +52,7 @@ body{
 .sign{
     grid-area: sign;
     background: hsl(179, 94%, 38%);
-    padding: 30px;
+    padding: 40px 30px;
 }
 
 .sign h3{
@@ -95,7 +95,7 @@ body{
 .about{
     grid-area: about;
     background: hsl(179, 94%, 43%);
-    padding: 30px;
+    padding: 40px 30px;
 }
 
 .about h3{
